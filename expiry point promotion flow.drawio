@@ -1,1 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2021-10-15T08:06:16.756Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="Pac4lJT4sS17j5HSpgXF" version="15.0.6" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7Zlbd6IwEMc/TR7dw02ER1Hs9rK3Y3fb3Zc9qUSgBeKGeKGffhOIIsTT0rqWru2TZBxCMr/8MxMA+iBenRA4Cz5hD0VAU7wV0IdA01S9Z7IfbskKS8+0C4NPQk84lYZxeI+EURHWeeihtOJIMY5oOKsaJzhJ0IRWbJAQvKy6TXFUfeoM+kgyjCcwkq1XoUeDwmppvdL+EYV+sH6yup5fDNfOYiZpAD283DLpLtAHBGNaXMWrAYp48NZxuTrNrqKLO/Pk7Fv6B353zi8//+gUnY2ecstmCgQl9Nldj++DsTa/9O9H2fWfs+D36S/nS0fMNaXZOl7IY+ETTUxogH2cwMgtrQ7B88RDvFeFtUqfC4xnzKgy4y2iNBNrAc4pZqaAxpH4l82CZNf8/g/ddfOn6C5vDFeVViZaxVj5AGtoH4mL8EvxnEzQA366WJ6Q+Ig+EDRrA5+pBuEYsUGy+wiKIA0X1cFBsXz9jV+JiF0ISk9YDGKQCxjNxZM8SGEnTDpoNQtJ1pnhkEVDU27xjQS3RMc5LIOQovEM5kFZMvlXMU1xQgVDlc3X8SOYpgJFSgm+2wiKe2/UUZJqCmaBCEWrrbDJsRX/6j2hRbEZWaK5LJWtruUabKnaUPansXMpqN03KqCd0VAaCkg1XkhBD41yS0EJTphsUj5FRBYhm2O7wpEE0ZRRY+HoStvKWU9sC0MbUjq0JLSGktiqKFqQhCaxYAXUZM4fjZMjlgXTQUUWXaN1Wcj5/Rhloe+52sWtX0WtI3CaShWn2a1hKmQo7qqR2gzj+fBkdjGKbxA5YgVtFPNqFKQepWCshnmk1TRiyXuXawJ7BPpd4Fqgzy4KywD0+9zijIDVExbm5vZAv8fd3C6wLGCZRyeXeh2m2q3LZUfC4eEfAVsFrg3YEctSz+H0DnJOjsnBsAtL5ZzqeFi0aJVBEecBjjBhFlZoc7VNwyiqmWAU+glrTlh02YapOzz2IatC+uKPOPS8XKq7oFfleyh4Rm2vY/lGhqfsgKcdDJ6skDd8/CyOlU2K7TY3SbV3jPmpcez3rfz2i70hbXbFWzMeClFLzgiOsTj35FnLBX01T00usGV2x5aRDK3tjKTJL2h4+G0jLxHyBMSzpkK8mHdF4xwU4zMElp0XE13gKLnnkEOrE3uEURVohYGMaBvgoQjVD6nmrrSzi1D99PPvCMkyyuPuAMfIL8wcwKPV3P9Gon7YeQUkuu/VW1MZ2bWNbtfHgxet3jTzHV5DePU3O4eEx5rlR93i1VD5aVx3/wI=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-25T09:57:31.218Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="XGh7s-9VrBiRzIlCq_ff" version="15.5.2" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1376" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="SzhS2uTgzFyXqJh_IZBO-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="SzhS2uTgzFyXqJh_IZBO-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="data-in-expiry-point job" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="370" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SzhS2uTgzFyXqJh_IZBO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SzhS2uTgzFyXqJh_IZBO-0" target="SzhS2uTgzFyXqJh_IZBO-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SzhS2uTgzFyXqJh_IZBO-0" value="non-pos service" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="370" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SzhS2uTgzFyXqJh_IZBO-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SzhS2uTgzFyXqJh_IZBO-2" target="SzhS2uTgzFyXqJh_IZBO-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SzhS2uTgzFyXqJh_IZBO-2" value="calculation service" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="230" y="540" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SzhS2uTgzFyXqJh_IZBO-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SzhS2uTgzFyXqJh_IZBO-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SzhS2uTgzFyXqJh_IZBO-3" value="member service" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="540" y="540" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SzhS2uTgzFyXqJh_IZBO-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SzhS2uTgzFyXqJh_IZBO-8" target="SzhS2uTgzFyXqJh_IZBO-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SzhS2uTgzFyXqJh_IZBO-8" value="查询过期积分" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="370" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SzhS2uTgzFyXqJh_IZBO-13" value="发送Kafka消息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="260" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SzhS2uTgzFyXqJh_IZBO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SzhS2uTgzFyXqJh_IZBO-14" target="SzhS2uTgzFyXqJh_IZBO-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SzhS2uTgzFyXqJh_IZBO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SzhS2uTgzFyXqJh_IZBO-14" target="SzhS2uTgzFyXqJh_IZBO-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SzhS2uTgzFyXqJh_IZBO-14" value="expiry point promotion 计算" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="370" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SzhS2uTgzFyXqJh_IZBO-20" value="生成 rdm itm 等数据" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="230" y="660" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SzhS2uTgzFyXqJh_IZBO-24" value="更新积分" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="540" y="660" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SzhS2uTgzFyXqJh_IZBO-25" value="发送Kafka消息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="290" y="480" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SzhS2uTgzFyXqJh_IZBO-26" value="发送Kafka消息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="600" y="480" width="100" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
