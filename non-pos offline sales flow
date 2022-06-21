@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T02:20:05.065Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="kJXNnPTt13MLJCweEIsg" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T03:50:39.377Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="KQ5MgRfR6_1cHWICCLBE" version="20.0.1" type="github">
   <diagram id="Zb9ADUMWAIJxx8_rM61v" name="Page-1">
     <mxGraphModel dx="1378" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
         <mxCell id="fp-p8b6TFdwlWiif8Fd0-21" value="nonpos offline sales 检查" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="fp-p8b6TFdwlWiif8Fd0-20">
           <mxGeometry x="175" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fp-p8b6TFdwlWiif8Fd0-22" value="使用tlog file 的promotion id 计算是否匹配条件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fp-p8b6TFdwlWiif8Fd0-22" value="使用tlog file 的promotion id 计算积分" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fp-p8b6TFdwlWiif8Fd0-24" value="consume" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -55,6 +55,9 @@
         </mxCell>
         <mxCell id="fp-p8b6TFdwlWiif8Fd0-26" value="cpa service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="fp-p8b6TFdwlWiif8Fd0-25">
           <mxGeometry x="228" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fp-p8b6TFdwlWiif8Fd0-27" value="Y" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fp-p8b6TFdwlWiif8Fd0-25">
+          <mxGeometry x="155.5" y="160" width="14.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
