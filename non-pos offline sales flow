@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T02:13:32.177Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="vIfvs57-894f_Vk1-G6n" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T02:17:03.429Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="OH4a8ARwmzXZu3vQ_8Ux" version="20.0.1" type="github">
   <diagram id="Zb9ADUMWAIJxx8_rM61v" name="Page-1">
     <mxGraphModel dx="1378" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,8 +16,10 @@
         <mxCell id="fp-p8b6TFdwlWiif8Fd0-4" value="no msg3" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="337" y="350" width="94" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="fp-p8b6TFdwlWiif8Fd0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fp-p8b6TFdwlWiif8Fd0-11" target="fp-p8b6TFdwlWiif8Fd0-16">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="fp-p8b6TFdwlWiif8Fd0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fp-p8b6TFdwlWiif8Fd0-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="384" y="690" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="fp-p8b6TFdwlWiif8Fd0-11" value="tlog file without point&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="341" y="520" width="86" height="90" as="geometry" />
@@ -25,11 +27,25 @@
         <mxCell id="fp-p8b6TFdwlWiif8Fd0-13" value="Y" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="387" y="470" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fp-p8b6TFdwlWiif8Fd0-16" value="cpa offline sales promotion calculation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="324" y="690" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="fp-p8b6TFdwlWiif8Fd0-18" value="Y" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="387" y="630" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fp-p8b6TFdwlWiif8Fd0-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fp-p8b6TFdwlWiif8Fd0-19" target="fp-p8b6TFdwlWiif8Fd0-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fp-p8b6TFdwlWiif8Fd0-19" value="tlog file 是否包含 promotion id" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="331" y="690" width="106" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fp-p8b6TFdwlWiif8Fd0-20" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="231.5" y="340" width="305" height="270" as="geometry">
+            <mxRectangle x="231.5" y="340" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fp-p8b6TFdwlWiif8Fd0-21" value="offline sales 检查" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="fp-p8b6TFdwlWiif8Fd0-20">
+          <mxGeometry x="195" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fp-p8b6TFdwlWiif8Fd0-22" value="使用tlog file 的promotion id 计算是否匹配条件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="890" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
