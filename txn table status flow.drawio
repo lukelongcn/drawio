@@ -1,0 +1,120 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.7.17">
+  <diagram name="Page-1" id="Wy_d8P5LkUXomtqwapZ8">
+    <mxGraphModel dx="1426" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uiGhevyAfmaPcFUs8KpS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;" edge="1" parent="1" source="uiGhevyAfmaPcFUs8KpS-2" target="uiGhevyAfmaPcFUs8KpS-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiGhevyAfmaPcFUs8KpS-2" value="&lt;font&gt;Kafka&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;hachureGap=4;fontFamily=Verdana;direction=south;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="195" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uiGhevyAfmaPcFUs8KpS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;" edge="1" parent="1" source="uiGhevyAfmaPcFUs8KpS-3" target="uiGhevyAfmaPcFUs8KpS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiGhevyAfmaPcFUs8KpS-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uiGhevyAfmaPcFUs8KpS-3" target="uiGhevyAfmaPcFUs8KpS-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiGhevyAfmaPcFUs8KpS-3" value="&lt;font&gt;non-pos-promo-service consumer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="305" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uiGhevyAfmaPcFUs8KpS-6" value="MySQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="650" y="340" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uiGhevyAfmaPcFUs8KpS-7" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;CUSTOMER_TXN_EVENT_LOG&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="580" y="300" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uiGhevyAfmaPcFUs8KpS-9" value="insert log: status = NEW" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="435" y="350" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uiGhevyAfmaPcFUs8KpS-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;" edge="1" parent="1" source="uiGhevyAfmaPcFUs8KpS-10" target="uiGhevyAfmaPcFUs8KpS-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiGhevyAfmaPcFUs8KpS-10" value="Promotion&lt;br&gt;calcualtion" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="305" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uiGhevyAfmaPcFUs8KpS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;" edge="1" parent="1" source="uiGhevyAfmaPcFUs8KpS-12" target="uiGhevyAfmaPcFUs8KpS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiGhevyAfmaPcFUs8KpS-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uiGhevyAfmaPcFUs8KpS-12" target="uiGhevyAfmaPcFUs8KpS-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiGhevyAfmaPcFUs8KpS-12" value="update log" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="305" y="885" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uiGhevyAfmaPcFUs8KpS-15" value="update status = PROCESSED" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="450" y="880" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uiGhevyAfmaPcFUs8KpS-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;" edge="1" parent="1" source="uiGhevyAfmaPcFUs8KpS-16" target="uiGhevyAfmaPcFUs8KpS-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiGhevyAfmaPcFUs8KpS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;" edge="1" parent="1" source="uiGhevyAfmaPcFUs8KpS-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uiGhevyAfmaPcFUs8KpS-16" value="success" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="760" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uiGhevyAfmaPcFUs8KpS-21" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="810" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uiGhevyAfmaPcFUs8KpS-23" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="415" y="758" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uiGhevyAfmaPcFUs8KpS-24" value="update status = FAILED" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="465" y="758" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uiGhevyAfmaPcFUs8KpS-25" value="&lt;font&gt;Kafka&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;hachureGap=4;fontFamily=Verdana;direction=south;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="1030" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uiGhevyAfmaPcFUs8KpS-27" value="Topics:&amp;nbsp;&lt;div&gt;promotion_transaction&lt;/div&gt;&lt;div&gt;promotion_tlog&lt;/div&gt;&lt;div&gt;batch_point_adjust&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="251" y="108" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="uiGhevyAfmaPcFUs8KpS-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uiGhevyAfmaPcFUs8KpS-29" target="uiGhevyAfmaPcFUs8KpS-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiGhevyAfmaPcFUs8KpS-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uiGhevyAfmaPcFUs8KpS-29" target="uiGhevyAfmaPcFUs8KpS-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uiGhevyAfmaPcFUs8KpS-29" value="update txn stg status" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="305" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uiGhevyAfmaPcFUs8KpS-30" value="MySQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="880" y="530" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uiGhevyAfmaPcFUs8KpS-31" value="CUSTOMER_LOY_TXN_STG" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="820" y="490" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uiGhevyAfmaPcFUs8KpS-33" value="update status_cd =&amp;nbsp;In Progress" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="490" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uiGhevyAfmaPcFUs8KpS-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="uiGhevyAfmaPcFUs8KpS-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="365" y="830" as="sourcePoint" />
+            <mxPoint x="815" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="910" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uiGhevyAfmaPcFUs8KpS-38" value="update status = PROCESSED" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="700" y="830" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uiGhevyAfmaPcFUs8KpS-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="uiGhevyAfmaPcFUs8KpS-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="798" as="sourcePoint" />
+            <mxPoint x="810" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="910" y="798" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uiGhevyAfmaPcFUs8KpS-40" value="update status = Rejected" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="720" y="770" width="180" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
